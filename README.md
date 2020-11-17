@@ -1,4 +1,4 @@
-# Nauka
+# Zad33
 public class Zad33 {
 
     /* 1. Napisz program, który:
